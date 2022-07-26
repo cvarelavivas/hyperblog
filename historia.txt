@@ -5,3 +5,5 @@ mi edad es 39 años
 naci en colombia y viajo por todo el mundo
 
 soy alto, como siempre
+
+hoy es el CEO de Infocore SAS
