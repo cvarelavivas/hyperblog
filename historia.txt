@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la historia de carlos varela
 
 mi edad es 39 años
@@ -7,3 +8,12 @@ naci en colombia y viajo por todo el mundo
 soy alto, como siempre
 
 hoy es el CEO de Infocore SAS
+=======
+Esta es la historia de Carlos Varela
+
+Carlos varela tiene 38 años y naci en colombia
+
+en camara es muy alto y en persona tambien!!
+
+hoy es el CEO de Infocore
+>>>>>>> 638d130dee3276763bc9491db6f3a2cce6d108e9
